@@ -1,2 +1,2 @@
 #                                                                  HOUSE-PRICE-PREDICTION-PROJECT
-                                                  Develop and regression model for house price prediction
+                                        Develop and regression model for house price prediction
