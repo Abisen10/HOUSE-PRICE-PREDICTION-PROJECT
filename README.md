@@ -36,7 +36,7 @@ The dataset provided is captured in three csv files: train.csv, test.csv, and ma
 
 
 
-#Data Processing
+# Data Processing
 
 Deleting the huge outliners from data.
   
